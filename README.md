@@ -9,6 +9,11 @@
 | SMBIOS           | MacBookAir9,1 |
 | SSD format       | APFS file system, GPT partition table |
 
+> [!NOTE]
+> This repo is kept alive for informational purposes only.
+>
+> As I don't own this laptop anymore, I won't be able to provide any help or update for it.
+
 ## Abstract
 Everything on the Core 1035G1 Surface Laptop Go is working perfectly like on a real Mac.
 
